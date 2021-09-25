@@ -85,7 +85,7 @@ header nav ul li a {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color: cadetblue;
+  background-color: lightblue;
   height: 100vh;
 }
 
@@ -119,7 +119,7 @@ header nav ul li a {
   align-items: center;
 }
 
-.work-wrapper img {
+.run-buddy img {
   width: 60vw;
 }
 
@@ -127,6 +127,47 @@ header nav ul li a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: lightblue;
+}
+
+.work-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+  height: 50vh;
+  background-color: lightblue;
+}
+
+.work-row img {
+  width: 29vw;
+}
+
+.horiseon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.calculator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+/* work section styles end */
+
+
+/* contact me section styles start */
+
+
+.contact {
+  height: 100vh;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 
@@ -149,17 +190,9 @@ header nav ul li a {
 
 
 
-/* work section styles end */
 
 
-
-
-
-
-
-
-/* contact me section styles start */
-
+/* contact me section styles end */
 
 
 
