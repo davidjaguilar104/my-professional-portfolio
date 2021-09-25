@@ -60,25 +60,40 @@ header nav ul li a {
 /* coding images section styles end */
 
 
+
+/* utility class for a tan block */
 .tan-block {
   width: 100vw;
   height: 22vh;
   background-color: beige;
 }
-
+/* utility class for a tan block */
 
 
 /* about me section styles start  */
 
-.portrait {
+.about {
   display: flex;
   align-items: center;
+  justify-content: space-around;
+  background-color: cadetblue;
 }
 
-.portrait img {
-  width: 20vw;
-  height: 20vh;
+.about h2 {
+  font-size: 80px;
+  font-weight: bold;
 }
+
+.about p {
+  width: 50vw;
+  font-size: 40px;
+}
+
+.about-me-column {
+  display: flex;
+  flex-direction: column;
+}
+
 
 
 
