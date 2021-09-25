@@ -271,7 +271,7 @@ header nav ul li a {
   }
 
   header nav ul li a {
-    font-size: 40px;
+    font-size: 20px;
   }
 
   .coding-images {
@@ -280,6 +280,7 @@ header nav ul li a {
   }
 
   .coding-images img {
+    height: 35vh;
     width: 143vw;
   }
 
@@ -290,5 +291,10 @@ header nav ul li a {
   .about {
     display: flex;
     flex-direction: column;
+    width: 143vw;
+  }
+
+  .work-wrapper{
+    width: 143vw;
   }
 }
