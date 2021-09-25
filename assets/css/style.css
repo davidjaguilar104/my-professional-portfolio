@@ -90,13 +90,13 @@ header nav ul li a {
 }
 
 .about h2 {
-  font-size: 80px;
+  font-size: 40px;
   font-weight: bold;
 }
 
 .about p {
   width: 50vw;
-  font-size: 40px;
+  font-size: 20px;
 }
 
 .about-me-column {
