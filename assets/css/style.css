@@ -251,5 +251,26 @@ header nav ul li a {
 
 
 @media screen and (max-width: 575px) {
-  
+  header {
+    display: flex;
+    flex-direction: column;
+  }
+
+  header nav ul li a {
+    font-size: 40px;
+  }
+
+  .coding-images {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .coding-images img {
+    width: 100vw;
+  }
+
+  .about {
+    display: flex;
+    flex-direction: column;
+  }
 }
