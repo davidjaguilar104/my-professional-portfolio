@@ -297,4 +297,20 @@ header nav ul li a {
   .work-wrapper{
     width: 143vw;
   }
+
+
+
+
+
+  .contact {
+    display: flex;
+    flex-direction: column;
+    width: 143vw;
+  }
+
+
+
+
+
+
 }
