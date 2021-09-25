@@ -267,6 +267,7 @@ header nav ul li a {
   header {
     display: flex;
     flex-direction: column;
+    width: 143vw;
   }
 
   header nav ul li a {
@@ -279,7 +280,11 @@ header nav ul li a {
   }
 
   .coding-images img {
-    width: 100vw;
+    width: 143vw;
+  }
+
+  .tan-block {
+    width: 143vw;
   }
 
   .about {
