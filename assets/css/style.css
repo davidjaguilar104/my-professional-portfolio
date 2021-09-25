@@ -44,14 +44,40 @@ header nav ul li a {
   font-size: 1.55vw;
   /* text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
 }
-
-
-
-
-
-
-
-
-
-
 /* header styles end */
+
+/* coding images section styles start */
+
+.coding-images {
+  display: flex;
+  margin-bottom: 10vh;
+}
+
+.coding-images img {
+  width: 34vw;
+  height: 64vh;
+}
+
+/* coding images section styles end */
+
+
+/* about me section styles start  */
+
+.portrait {
+  display: flex;
+  align-items: center;
+}
+
+.portrait img {
+  width: 20vw;
+  height: 20vh;
+}
+
+
+
+
+
+
+
+
+/* about me section styles end */
