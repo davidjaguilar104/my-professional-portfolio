@@ -11,8 +11,6 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     background-color: beige;
-    width: 100vw;
-    height: 12vh;
     align-items: center;
 }
 
@@ -63,8 +61,7 @@ header nav ul li a {
 
 /* utility class for a tan block */
 .tan-block {
-  width: 100vw;
-  height: 22vh;
+  height: 27vh;
   background-color: beige;
 }
 /* utility class for a tan block */
@@ -77,6 +74,7 @@ header nav ul li a {
   align-items: center;
   justify-content: space-around;
   background-color: cadetblue;
+  height: 100vh;
 }
 
 .about h2 {
