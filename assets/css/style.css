@@ -298,19 +298,23 @@ header nav ul li a {
     width: 143vw;
   }
 
+  .run-buddy img {
+    width: 141vw;
+    height: 42vh;
+  }
 
+  .work-row {
+    width: 143vw;
+  }
 
-
-
+  .work-row img {
+    width: 69vw;
+    height: 30vh;
+  }
   .contact {
     display: flex;
     flex-direction: column;
     width: 143vw;
   }
-
-
-
-
-
 
 }
