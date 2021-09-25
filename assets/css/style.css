@@ -167,7 +167,16 @@ header nav ul li a {
   background-color: lightblue;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
+}
+
+.contact p {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.contact a {
+  font-size: 30px;
 }
 
 
@@ -189,9 +198,6 @@ header nav ul li a {
 
 
 
-
-
-
 /* contact me section styles end */
 
 
@@ -199,32 +205,6 @@ header nav ul li a {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* contact me section styles end */
 
 
 
