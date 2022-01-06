@@ -143,13 +143,13 @@ header nav ul li a {
   width: 29vw;
 }
 
-.horiseon {
+.animal-showdown {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.calculator {
+.stew-brew {
   display: flex;
   flex-direction: column;
   align-items: center;
